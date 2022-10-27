@@ -1,0 +1,67 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+h3 {
+	font-weight: 300 !important;
+}
+
+h4 span a {
+	color: #fff !important;
+}
+
+.fusion-main-menu > ul > li > a {
+	text-transform: uppercase;
+	border-top: none !important;
+	border-bottom: 1px solid transparent;
+	height: 65px !important;
+}
+
+.fusion-footer-widget-area ul li a {
+	border-bottom: none;
+	padding: 5px 0;
+}
+
+.fusion-footer-widget-area .widget-title {
+	text-transform: none;
+}
+
+.columna-productos .fusion-column-wrapper {
+	min-height: 395px !important;
+}
+
+.columna-productos h2 a {
+	text-transform: uppercase;
+	color: white;
+}
+
+.columna-productos h2 {
+	line-height: 240px !important;
+}
+/*
+     FILE ARCHIVED ON 15:47:17 Apr 05, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:26:20 Oct 25, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 106.714
+  exclusion.robots: 0.406
+  exclusion.robots.policy: 0.388
+  RedisCDXSource: 9.782
+  esindex: 0.009
+  LoadShardBlock: 76.291 (3)
+  PetaboxLoader3.datanode: 142.832 (5)
+  CDXLines.iter: 17.122 (3)
+  load_resource: 238.899 (2)
+  PetaboxLoader3.resolve: 64.609 (2)
+*/
