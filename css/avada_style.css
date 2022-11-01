@@ -4123,7 +4123,7 @@ html[xmlns] .flexslider .slides {
 }
 #layerslider-wrapper .ls-shadow-top {
   position: absolute;
-  background-image: url(/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/images/shadow-top.png);
+  background-image: url(/images/shadow-top.png);
   background-repeat: no-repeat;
   background-position: top center;
   height: 42px;
@@ -4133,7 +4133,7 @@ html[xmlns] .flexslider .slides {
 }
 #layerslider-wrapper .ls-shadow-bottom {
   position: absolute;
-  background-image: url(/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/images/shadow-bottom.png);
+  background-image: url(/images/shadow-bottom.png);
   background-repeat: no-repeat;
   background-position: bottom center;
   height: 32px;
@@ -4833,7 +4833,7 @@ Table of Contents
   border: none;
   color: transparent;
   text-indent: 100000px;
-  background: url(/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/images/ajax-loader.gif ) center center no-repeat;
+  background: url(/images/ajax-loader.gif ) center center no-repeat;
 }
 .fusion-slider-loading,
 .fusion-slider-loading:after {
@@ -7813,8 +7813,8 @@ Table of Contents
 ================================================================================================= */
 @font-face {
   font-family: 'icomoon';
-  src: url('/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/fonts/icomoon/icomoon.eot');
-  src: url('/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/fonts/icomoon/icomoon.eot#iefix') format('embedded-opentype'), url('/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/fonts/icomoon/icomoon.woff') format('woff'), url('/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/fonts/icomoon/icomoon.ttf') format('truetype'), url('/web/20220607133158im_/https://djdiggermexico.com/wpdigger/wp-content/themes/Avada/assets/fonts/icomoon/icomoon.svg#icomoon') format('svg');
+  src: url('/fonts/icomoon/icomoon.eot');
+  src: url('/fonts/icomoon/icomoon.eot#iefix') format('embedded-opentype'), url('/fonts/icomoon/icomoon.woff') format('woff'), url('/fonts/icomoon/icomoon.ttf') format('truetype'), url('/fonts/icomoon/icomoon.svg#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
